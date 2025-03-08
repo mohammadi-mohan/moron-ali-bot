@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "MORON ALI BOT",
   "FACEBOOK": "https://www.facebook.com/profile.php?id=61573431181001",
-  "prefix": "-",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
